@@ -16,6 +16,7 @@ public class Quiz02 {
 		System.out.print(name + " 님의 수학 점수 : ");
 		int math = scan.nextInt();
 		int sum = korea + eng + math;
+		double avr = sum / 3;
 
 		System.out.println();
 		System.out.println("=====================");
@@ -26,6 +27,7 @@ public class Quiz02 {
 		System.out.println("수 학 : " + math);
 		System.out.println("=====================");
 		System.out.println("합 계 : " + sum);
+		System.out.println("평 균 : " + avr);
 		System.out.println("=====================");
 	}
 }
