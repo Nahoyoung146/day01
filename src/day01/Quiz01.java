@@ -11,14 +11,5 @@ public class Quiz01 {
 		System.out.println("=========================================");
 		System.out.println("총합계\t\t\t\t\\"+100000);
 		System.out.println("=========================================");
-		
-		
-		System.out.println();
-		System.out.println();
-		System.out.println();
-		System.out.println();
-		System.out.println();
-		System.out.println();
-		
 	}
 }
