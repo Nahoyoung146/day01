@@ -8,14 +8,15 @@ public class ExClass01 {
 		System.out.println("나의 나이는 " + age);
 		System.out.println(weight);
 		System.out.println("키는 " + height + "cm 입니다");
-		
+
 		System.out.println("------------------");
-		
+
 		int number = 123;
 		System.out.println("변경 전 num : " + number);
-		number =100;
+		number = 100;
 		System.out.println("변경 후 num : " + number);
 		number = number + 200;
 		System.out.println("변경 후 num : " + number);
+
 	}
 }
